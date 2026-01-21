@@ -87,7 +87,6 @@ O dashboard foi desenvolvido no **Looker Studio** e apresenta:
 * Comparativo de uso e disponibilidade
 * Visão agregada para apoio à decisão
 
-> Para fins acadêmicos, prints do dashboard podem ser utilizados como evidência no relatório do projeto.
 
 ---
 
